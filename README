@@ -1,0 +1,1 @@
+Simple plugin that requires HTTPS requests on /login, /register and /my/password as well as provides a top menu link for enabling/disabling SSL.
